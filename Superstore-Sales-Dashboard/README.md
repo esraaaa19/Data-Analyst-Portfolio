@@ -19,5 +19,6 @@ Built an interactive Power BI dashboard to analyze retail sales performance.
 - West region contributed the most revenue.
 - Sales showed seasonal trends across months.
 
-## Dashboard Screenshot
-(Add screenshot here)
+
+## Dashboard Preview
+![Dashboard](Screenshot 2026-06-18 2.png)
