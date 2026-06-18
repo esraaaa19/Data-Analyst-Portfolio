@@ -48,4 +48,4 @@ The goal of this project is to understand why customers leave the company and pr
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+
