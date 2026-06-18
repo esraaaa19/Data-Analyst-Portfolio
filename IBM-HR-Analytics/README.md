@@ -1,0 +1,30 @@
+# IBM HR Analytics Dashboard
+
+## Overview
+
+Developed an interactive Power BI dashboard to analyze employee attrition, workforce demographics, job satisfaction, and performance trends using IBM HR Analytics data.
+
+## Tools Used
+
+- Power BI
+- DAX
+- Excel
+
+## KPIs
+
+- Total Employees
+- Attrition Count
+- Attrition Rate %
+- Average Monthly Income
+- Average Years at Company
+
+## Key Insights
+
+- Employees with lower monthly income showed higher attrition rates.
+- Sales Representatives experienced the highest employee turnover.
+- Most attrition occurred within the first few years of employment.
+- Employees working overtime were more likely to leave the company.
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
