@@ -47,5 +47,5 @@ The goal of this project is to understand why customers leave the company and pr
 - Introduce personalized offers for customers likely to churn.
 
 ## Dashboard Preview
-
+![Dashboard](dashboard.png)
 
